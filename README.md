@@ -1,5 +1,7 @@
 # COM2008-project
-COM2008 System Design and Security Project is one of my core modules in my second year of study.
+COM2008 System Design and Security is one of my core modules in my second year of study. In this project, our task is to create a software simiar to Airbnb.
+Before the development process starts, we worked on making UML diagram of the design of the system. 
+We learned about software security throughout this module and we have to make this software
 
 ## Details
 - Homestay marketplace software for two end users : host and guest
@@ -26,3 +28,7 @@ COM2008 System Design and Security Project is one of my core modules in my secon
 - Build guest user interface
 - Design and implement guest user features
 - Build the mid-end link intergrated with SQL injection prevention
+
+<a href="https://heroku.com/deploy">
+  <img  align="right"  src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
