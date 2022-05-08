@@ -2,11 +2,11 @@
 COM2008 System Design and Security Project is one of my core modules in my second year of study.
 
 ## Details
-Homestay marketplace software for two end users : host and guest
-Role based access control security
-Language: Java
-Frameworks: Swing, AWT
-Database: SQL
+- Homestay marketplace software for two end users : host and guest
+- Role based access control security
+- Language: Java
+- Frameworks: Swing, AWT
+- Database: SQL
 
 #### Features:
 ##### Host
