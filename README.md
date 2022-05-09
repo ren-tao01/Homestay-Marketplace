@@ -7,7 +7,7 @@ We learned about software security throughout this module and we have to make th
 - Homestay marketplace software for two end users : host and guest
 - Role based access control security
 - Language: Java
-- Frameworks: Swing, AWT
+- Framework: Swing, AWT
 - Database: SQL
 
 #### Features:
