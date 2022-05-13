@@ -32,3 +32,6 @@ We learned about software security throughout this module and we have to make th
 <a href="https://heroku.com/deploy">
   <img  align="right"  src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
+
+#### Snapshot:
+<img src="https://github.com/ren-tao01/COM2008-project/blob/main/assets/images/2008_ss1.PNG" width="85%">
