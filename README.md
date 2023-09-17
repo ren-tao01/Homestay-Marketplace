@@ -1,10 +1,10 @@
-# COM2008-project
-COM2008 System Design and Security is one of my core modules in my second year of study. In this project, our task is to create a software simiar to Airbnb.
+# Project
+System Design and Security is one of my core modules in my second year of study. In this project, our task is to create a software simiar to Airbnb.
 Before the development process starts, we worked on making UML diagram of the design of the system. 
 We learned about software security throughout this module and we have to make this software
 
 ## Details
-- Homestay marketplace software for two end users : host and guest
+- Main roles: host and guest
 - Role based access control security
 - Language: Java
 - Framework: Swing, AWT
